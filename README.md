@@ -11,3 +11,6 @@ https://gray-tree-01c1bf703-canary.westeurope.2.azurestaticapps.net/
 
 Acceptance is also for testing the development version, but does not use production data.\
 https://blue-plant-0c46d0403.1.azurestaticapps.net/
+
+# Github
+Brainsupporter is not open source as we are trying a different business model. But we do use github to record user feedback.
